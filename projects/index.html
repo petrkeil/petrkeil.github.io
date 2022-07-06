@@ -1,0 +1,35 @@
+---
+layout: default
+title: "projects"
+group: navigation
+navorder: 2
+---
+{% include JB/setup %}
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+{% assign projectindex = 0 %}
+{% for project in site.categories.projects %}
+{% assign projectindex = projectindex | plus: 1 %}
+  {% assign columnindex = projectindex | modulo: 3 %}
+  {% if columnindex == 1 %} <!-- opening of a new row -->
+  <div class="row">
+  {% endif %}
+
+		<div class="col-md-4 projectbox">
+			<div class="bighead">
+				<a href="{{ project.url }}" class="off">{{ project.handle }}</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallhead">{{ project.title }}
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">{{project.hashes}}
+			</div>
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+		</div>
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
