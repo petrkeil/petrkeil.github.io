@@ -15,7 +15,7 @@ title: MOBI Lab / projects
   <div class="row">
   {% endif %}
 
-		<div class="col-md-4 projectbox">
+		<div class="col-md-12">
 			<div class="bighead">
 				<a href="{{ project.url }}" class="off">{{ project.handle }}</a>
 			</div>
@@ -29,13 +29,17 @@ title: MOBI Lab / projects
 			<div class="spacer"></div>
 			
 			      <a href="{{ project.url }}">
-        <img class="ml-3" width=300 class="media-object" src="{{ project.image }}"></a>
+        <img class="ml-4" width=250 class="media-object" src="{{ project.image }}"></a>
       
+      			<div class="bigspacer"></div>
+      			<div class="bigspacer"></div>
 		</div>
 		
 
       
 {% endfor %}
 {% if colindex != 0 %} <!-- close last open row -->
-</div><div class="bigspacer"></div>
+</div>
+
+<div class="bigspacer"></div>
 {% endif %}

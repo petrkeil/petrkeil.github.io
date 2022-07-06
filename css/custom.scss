@@ -1,6 +1,7 @@
 $primary: #DD2D2D;
 $gray: #555;
-$gray-light: #777;
+/* $gray-light: #777; */
+$gray-light: #5a5a5a;
 $line-height-base: 1.6;
 $font-size-base: 0.875rem;
 $font-weight-bolder: bold;
@@ -18,7 +19,7 @@ $navbar-brand-padding-y: 0.0rem;
 $navbar-light-color: $gray-light;
 $navbar-padding-y: 0.0rem;
 $nav-pills-link-active-color: #555;
-$nav-pills-link-active-bg: #e7e7e7;
+$nav-pills-link-active-bg: #F7F7F7;
 $nav-pills-border-radius: 0px;
 
 h1, .h1 { font-size: floor($font-size-base * 2.50); } /* ~34px */
@@ -118,8 +119,11 @@ b, strong {
 }
 
 .bg-navbar {
-  background: #f8f8f8;
-  border-bottom: 1px solid #e7e7e7;
+  /*background: #f8f8f8;*/
+  background: #e6e6e6;
+  /*border-bottom: 1px solid #e7e7e7;*/
+  border-bottom: 1px solid #a1a1a1;
+  border-top: 1px solid #a1a1a1;
 }
 
 .nav-brand a {
