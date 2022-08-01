@@ -3,7 +3,7 @@ layout: member
 title: Kateřina Tschernosterová
 position: Technician
 handle: ktrtsc
-image: /images/team/cat.png
+image: /images/team/katerina_tschernosterova.jpg
 website:
 email:
 ---

@@ -3,7 +3,7 @@ layout: member
 title: Eva Trávníčková
 position: Technician
 handle: evatrav
-image: /images/team/cat2.png
+image: /images/team/eva_travnickova.jpg
 website:
 email:
 ---
