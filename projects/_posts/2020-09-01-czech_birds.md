@@ -16,6 +16,9 @@ author: ptrkl
 
 ![FL](/images/team/francois.jpg)
 
-Lorem ipsum dolor sit amet. Et expedita accusamus qui quaerat debitis aut aliquam unde et corporis velit id debitis cumque ea quam omnis ut necessitatibus omnis. Aut quidem voluptatibus non commodi reprehenderit ut odit odio eum quos earum aut mollitia unde non tenetur commodi ex illum laudantium. Nam nulla assumenda et neque blanditiis et odit deleniti aut repellat optio qui accusantium corporis et recusandae magnam quo voluptate illo?
+We have been working on connecting local and regional biodiverstiy dynamics using an example of Czech birds.
+
+Specifically, we are working with local [JPSP dataset](http://jpsp.birds.cz/) and [Czech Bird Atlas Data](https://vesmir.cz/cz/on-line-clanky/2016/04/velke-ptaci-mapovani.html).
+
 
 
