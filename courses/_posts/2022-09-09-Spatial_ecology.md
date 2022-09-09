@@ -1,15 +1,13 @@
 ---
 layout: default
-title: FZP CZU, ZGZ149E, winter semester, 2/2
+title: FZP CZU, winter semester
 handle: Spatial ecology and macroecology
-image: /images/logo.png
+image:
 category: post
 author: ptrkl
 ---
 
-<div class="bigspacer"></div>
-
-# Spatial ecology and macroecology (ZGZ149E, winter semester)
+# Spatial ecology and macroecology (winter semester)
 
 Principal lecturer: *Petr Keil*
 

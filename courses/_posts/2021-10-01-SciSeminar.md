@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Informal science coffee of the Department of Spatial Sciences, Thu 10:30 AM
+title: Science coffee of the Department of Spatial Sciences
 handle: SciSeminar
 image: 
 category: post
 author: ptrkl
 ---
-
-<div class="bigspacer"></div>
 
 # Bi-weekly SciSeminar - science coffee
 

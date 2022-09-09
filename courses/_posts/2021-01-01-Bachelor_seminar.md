@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FZP CZU, ZGX102Z, winter semester, 0/1
+title: FZP CZU, winter semester
 handle: Bachelor thesis seminar
 image: 
 category: post
