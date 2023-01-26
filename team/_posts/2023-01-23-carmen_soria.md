@@ -6,7 +6,6 @@ handle: carsor
 image: /images/team/carmen1.jpg
 twitter: carmendsoria
 scholar: vqRII7cAAAAJ&hl
-website: https://www.inspire4nature.eu/fellows/carmensoria/
 ---
 
 

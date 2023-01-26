@@ -12,6 +12,8 @@ Briefly, the research is part our ERC-funded project BEAST (“Biodiversity dyna
 
 **PhD Position 2:** This project will analyze temporal change of remotely sensed spectral diversity, i.e. diversity of spectra captured by spaceborne satellite sensors such as MODIS or SENTINEL. The practical goal is to link this spectral diversity with locally measured taxonomic diversity (and to test the so called “spectral variability hypothesis”), and to investigate if the remotely sensed biodiversity change can be used as a proxy for temporal change of taxonomic diversity.
 
+# I want to know more. How can I apply? 
+
 Details, requirements, salary, and **application instructions** are [here](https://raw.githubusercontent.com/petrkeil/petrkeil.github.io/gh-pages/pdfs/jobs/PhD_Keil_CZU_2023.pdf). Application deadline is **15th of February 2023**.
 
 
