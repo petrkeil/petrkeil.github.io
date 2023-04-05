@@ -10,4 +10,5 @@ The paper is a review of current empirical literature on biodiversity change in 
 
 See [Francois' webpage](https://frslry.github.io/) for more info on his research.
 
+![francois](../../../../images/team/francois.jpg)
 
