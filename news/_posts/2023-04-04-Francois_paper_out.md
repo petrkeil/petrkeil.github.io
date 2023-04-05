@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Francois' first PhD chapter published - A review on how bird diversity changed in time
+title:  Francois' first PhD chapter published - A review on how has bird diversity changed in time
 author: Petr Keil
 ---
 
