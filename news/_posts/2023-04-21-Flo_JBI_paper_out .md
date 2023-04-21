@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Flo's paper out - A Bayesian model of temporal dynamics of species' range
+author: Petr Keil
+---
+
+Flo's paper on integration of presence-only and presence-absence data has just been published online ([Grattarola et al. 2023, *Journal of Biogeography*](https://onlinelibrary.wiley.com/doi/10.1111/jbi.14622))!
+
+Flo has developed a new method that will enable us to map temporal range contractions and expansions in species and in regions for which we have limited or badly heterogeneous data. The method can be super useful for assessment of conservation status of some charismatic species such as carnivorous mammals.
+
+Flo pushed both conceptual and computational boundaries here, and it was totally worth it. We now have a fully Bayesian model that integrates two completely different types of data (presence-only points, presence-absence data), it considers spatial autocorrelation, temporal dimension, observational effort, environmental covariates, and it operates across a continuum of spatial scales. The model comes with a cool example species: Go Yaguarundi! Plus there is a wonderful commented code, and tons of materials for everyone to use and copy.
+
+See [Flo's webpage](https://flograttarola.com/) for more info on her research.
+
+![fko](../../../../images/team/flo.png)
+
