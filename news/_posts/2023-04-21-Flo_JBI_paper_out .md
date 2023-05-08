@@ -12,5 +12,5 @@ Flo pushed both conceptual and computational boundaries here, and it was totally
 
 See [Flo's webpage](https://flograttarola.com/) for more info on her research.
 
-![fko](../../../../images/team/flo.png)
+![flo](../../../../images/team/flo.png)
 
