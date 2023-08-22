@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  We were at 2023 ESA meeting in Portland, Oregon
+title:  We were at the 2023 ESA meeting in Portland, Oregon
 author: Petr Keil
 ---
 

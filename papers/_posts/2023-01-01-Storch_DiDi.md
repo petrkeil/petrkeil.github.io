@@ -2,7 +2,7 @@
 layout: paper
 title: "Decomposing trends in bird populations: Climate, life histories and habitat affect different aspects of population change"
 image: /images/papers/storch_2023_2.jpg
-authors: Stroch D, Kolecek J, Keil P, Vermouzek Z, Vorisek P, Reif J
+authors: Storch D, Kolecek J, Keil P, Vermouzek Z, Vorisek P, Reif J
 year: 2023
 ref: Stroch et al 2023 Divers Distrib
 journal: "Diversity and Distributions 13: e4028"
