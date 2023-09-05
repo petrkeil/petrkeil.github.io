@@ -7,8 +7,8 @@ image: /images/team/manuele.jpg
 twitter: mbazzichetto
 github: ManueleBazzichetto
 scholar: RysWTycAAAAJ&hl
-website: https://manuelebazzichetto.github.io/pers-website/
-cv: https://github.com/ManueleBazzichetto/pers-website/blob/main/CVfolder/ManueleBazzichettoCV.pdf
+website: https://mbazzichetto.netlify.app/
+cv: https://mbazzichetto.netlify.app/uploads/ManueleBazzichettoCV.pdf
 ---
 
 Manuele is a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling, and, from recently, in the effect of climatic anomalies on ecosystem stability. 
