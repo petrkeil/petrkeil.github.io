@@ -102,7 +102,13 @@
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/courses/">courses</a></li>
-	
+						
+						{% if page.categories.first == 'values' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/values/">values</a></li>	
 					</ul>
 				</div>
 			</div>
