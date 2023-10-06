@@ -16,12 +16,12 @@ With contributions from: *Carmen Soria, Gabriel Ortega, Francois Leroy, Flo Grat
 
 On Thu 21 September 2023, during our lab-meeting, we had a discussion about good practice concerning co-authorships in MOBI lab. Here is what we came up with: 
 
-Relevant or interesting resources
+## Relevant or interesting resources
 
-A paper on the subject by [Logan et al. (2017) PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179956#pone.0179956.ref011)
-[CRediT - Contributor Roles Taxonomy](https://credit.niso.org/)
-[ICMJE guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for defining role of authors and contributors 
-[Ecological Society of America (ESA) code of conduct](https://www.esa.org/about/code-of-ethics/), section “Publication”
+- A paper on the subject by [Logan et al. (2017) PLoS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179956#pone.0179956.ref011)
+- [CRediT - Contributor Roles Taxonomy](https://credit.niso.org/)
+- [ICMJE guidelines](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for defining role of authors and contributors 
+- [Ecological Society of America (ESA) code of conduct](https://www.esa.org/about/code-of-ethics/), section “Publication”
 
 ## Who is a co-author and when is co-authorship deserved
 
