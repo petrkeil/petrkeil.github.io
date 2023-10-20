@@ -5,7 +5,7 @@ title: MOBI Lab / courses
 
 <!-- {% include JB/setup %} --> 
 <div class="bigspacer"></div>
-<div class="bigspacer"></div>
+
 
 {% assign courseindex = 0 %}
 {% for course in site.categories.courses %}
@@ -17,7 +17,7 @@ title: MOBI Lab / courses
 
 		<div class="col-md-12">
 			<div class="bighead">
-				<a href="{{ course.url }}" class="off">{{ course.handle }}</a>
+			<a href="{{ course.url }}" class="off">{{ course.handle }}</a>
 			</div>
 			<div class="smallspacer"></div>
 			<div class="smallhead">{{ course.title }}
@@ -25,13 +25,12 @@ title: MOBI Lab / courses
 			<div class="smallspacer"></div>
 			<div class="smallnote">{{course.hashes}}
 			</div>
-			<div class="bigspacer"></div>
+			
 			<div class="spacer"></div>
 			
-			      <a href="{{ course.url }}">
+			<a href="{{ course.url }}">
         <img class="ml-4" width=250 class="media-object" src="{{ course.image }}"></a>
       
-      			<div class="bigspacer"></div>
       			<div class="bigspacer"></div>
 		</div>
 		
