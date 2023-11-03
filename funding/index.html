@@ -1,14 +1,13 @@
 ---
 layout: default
-title: MOBI Lab / projects
+title: MOBI Lab / funding
 ---
 
 <!-- {% include JB/setup %} --> 
 <div class="bigspacer"></div>
-<div class="bigspacer"></div>
 
 {% assign projectindex = 0 %}
-{% for project in site.categories.projects %}
+{% for fund in site.categories.funding %}
 {% assign projectindex = projectindex | plus: 1 %}
   {% assign columnindex = projectindex | modulo: 3 %}
   {% if columnindex == 1 %} <!-- opening of a new row -->
@@ -17,19 +16,19 @@ title: MOBI Lab / projects
 
 		<div class="col-md-12">
 			<div class="bighead">
-				<a href="{{ project.url }}" class="off">{{ project.handle }}</a>
+				<a href="{{ funding.url }}" class="off">{{ fund.handle }}</a>
 			</div>
 			<div class="smallspacer"></div>
-			<div class="smallhead">{{ project.title }}
+			<div class="smallhead">{{ fund.title }}
 			</div>
 			<div class="smallspacer"></div>
-			<div class="smallnote">{{project.hashes}}
+			<div class="smallnote">{{fund.hashes}}
 			</div>
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
 			
-			      <a href="{{ project.url }}">
-        <img class="ml-4" width=250 class="media-object" src="{{ project.image }}"></a>
+			      <a href="{{ funding.url }}">
+        <img class="ml-4" width=250 class="media-object" src="{{ fund.image }}"></a>
       
       			<div class="bigspacer"></div>
       			<div class="bigspacer"></div>
