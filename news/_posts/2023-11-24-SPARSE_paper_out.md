@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New paper out on how to make a databases of biodiversity inventories (with previously unpublished data on Czech birds)
+title:  New paper out on how to make databases of biodiversity inventories (with previously unpublished data on Czech birds)
 author: Petr Keil
 ---
 
