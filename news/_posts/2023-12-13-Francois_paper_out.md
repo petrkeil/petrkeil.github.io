@@ -8,7 +8,7 @@ In a new paper led by Francois ([Leroy et al. 2023 *Ecography*](https://onlineli
 
 This is a major analysis in the context of our research in MOBI lab, and it is important for understanding of what's been going on with biodiversity in the Anthropocene.
 
-It's also a complex problem, and Francois has managed to put it all together brilliantly, more so give that this was his first major quantitative analysis of his PhD. There were endless discussions over whiteboards, many dead ends, some frustrations, and all the struggles that necessarily come with exploring of a new scientific horizon, managing a large and messy empirical dataset, developing new theory, applying new analytical tools, and handling a multi-author situation.
+It's also a complex problem, and Francois has managed to put it all together brilliantly, more so given that this was the first major quantitative analysis of his PhD. There were endless discussions over whiteboards, many dead ends, some frustrations, and all the struggles that necessarily come with exploring of a new scientific horizon, managing a large and messy empirical dataset, developing new theory, applying new analytical tools, and handling a multi-author situation.
 
 Some say that PhD students should start with simpler tasks and move to more complex problems later, as they progress. This was not the case - substantial parts of the research were as new to me as they were to Francois. This made it more risky and frustrating at times, but also more fun, and in the end more rewarding.
 
