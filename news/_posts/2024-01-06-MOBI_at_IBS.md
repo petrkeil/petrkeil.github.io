@@ -22,7 +22,7 @@ These were our posters:
 
 - Grattarola F, Tschernosterova K, **Keil P**: Evidence of neotropical carnivores' continental geographic range contractions over the last two decades
 
-And some of us had talks:
+And some of us gave talks:
 
 - **Wolke F**, Cabral A, Lim J, Kissling WD, Onstein R: Africa as an evolutionary arena for large fruits
 
