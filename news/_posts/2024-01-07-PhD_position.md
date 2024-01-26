@@ -4,7 +4,7 @@ title:  PhD position in remote sensing and biodiversity, application deadline 4t
 author: Petr Keil
 ---
 
-Are you a master student in your final year? Are you pondering carreer in research? I offer a fully funded, 3+ years, full-time PhD position in pace-borne remote sensing and biodiversity.
+Are you a master student in your final year? Are you pondering carreer in research? I offer a fully funded, 3+ years, full-time PhD position in space-borne remote sensing and biodiversity.
 
 The position is part our ERC-funded project BEAST (“Biodiversity dynamics across a continuum of space, time, and their scales”) which studies how biodiversity has changed in time at local, regional, and continental scales, during the last 50 years. The focus is on terrestrial taxa (vertebrates, plants) and facets of biodiversity which can be remotely sensed from satellites.
 
