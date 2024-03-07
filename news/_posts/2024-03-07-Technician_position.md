@@ -4,7 +4,7 @@ title:  Part-time job offer - Data technician-helper
 author: Petr Keil
 ---
 
-**We** are a research team ([petrkeil.github.io](https://petrkeil.github.io)) at the Faculty of Environmental Sciences of CZU in Prague, Czech Republic. We study nature changes at large scales. Have animal populations been declining or recovering? Have humans triggered the sixth mass extinction? We aim to answer these questions by analyzing temporal trends in large biodiversity databases, focusing on birds, mammals, butterflies, and vascular plants. We also use remotely sensed data from satellites.
+**We** are a research team ([petrkeil.github.io](https://petrkeil.github.io)) at the Faculty of Environmental Sciences of CZU in Prague, Czech Republic. We study how nature changes in time. Have animal populations been declining or recovering? Have humans triggered the sixth mass extinction? We aim to answer these questions by analyzing temporal trends in large biodiversity databases, focusing on birds, mammals, butterflies, and vascular plants. We also use remotely sensed data from satellites.
 
 **You** would help us with data entry, and with maintenance of existing databases. This includes converting published literature into digital data, various tasks including online search, data cleaning, identification of problematic entries, data harmonization, and improvement of database structure. The job is suitable for students or parents seeking an extra income.
 
