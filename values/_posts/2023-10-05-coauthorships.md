@@ -57,7 +57,7 @@ Prior to the first submission of the manuscript, the first author has the respon
 
 ## Bad practice
 
-Including people as co-authors simply because they are past collaborators, friends, because there are political or hierarchical reasons, or because they might act reciprocally in the future (i.e. "I will put you on my paper because next time you will include me on your paper") is a bad practice. Authors should be included based on merit. 
+Including people as co-authors solely because they are past collaborators, friends, because there are political or hierarchical reasons, or because they might act reciprocally in the future (i.e. "I will put you on my paper because next time you will include me on your paper") is bad practice. Authors should be included based on merit. 
 
 Assigning authorship and author order (or the position of the corresponding author) based on expected monetary or career benefits in the future is unethical. The ethical way is to order authors based on merit.
 
