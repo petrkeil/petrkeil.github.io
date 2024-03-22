@@ -51,11 +51,17 @@ The **corresponding author** is someone who should be contacted first by people 
 
 The default expectation in MOBI lab is that **the first author is the corresponding author**, unless this is impractical, for example when the lead author is expected to leave academia or the research field/program/project of MOBI lab, and thus would not be able to respond to queries about the paper.
 
-**Assigning authorship and author order (or the position of the corresponding author) based on expected monetary or career benefits in the future is unethical.** The ethical way is to assign this based on merit.
-
 If two or more people have an **equally significant contribution**, flip a coin or use the sample() function in R to decide their order. Do this in front of the co-authors in question.
 
 Prior to the first submission of the manuscript, the first author has the responsibility to (i) inform other co-authors what everyone did, (ii) justify their order, (iii) encourage them to check their affiliation and to add any relevant funding source to acknowledgements. This is done via a joint email to all co-authors.
+
+## Bad practice
+
+Including people as co-authors simply because they are past collaborators, friends, because there are political or hierarchical reasons, or because they might act reciprocally in the future (i.e. "I will put you on my paper because next time you will include me on your paper") is a bad practice. Authors should be included based on merit. 
+
+Assigning authorship and author order (or the position of the corresponding author) based on expected monetary or career benefits in the future is unethical. The ethical way is to order authors based on merit.
+
+If, immediately prior to submission, there are co-authors listed on the manuscript who did very little or nothing (a bad practice called "piggybagging"), they should be removed from the list of co-authors, and politely informed about that.
 
 ## Acknowledgement of funding sources, affiliations
 
