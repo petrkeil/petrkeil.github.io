@@ -25,11 +25,11 @@ On Thu 21 September 2023, during our lab-meeting, we had a discussion about good
 
 ## Who is a co-author and when is co-authorship deserved
 
-A rough criterion is that co-authorship is deserved if at least 1 role on the CRediT list is clearly substantial, or if the person has at least 2 roles. This is, however, still vague. Hence, if in doubt, follow the next rule.
+A rough criterion is that co-authorship is deserved if **at least 1 role from the [CRediT list](ttps://credit.niso.org/) is clearly substantial, or if the person has at least 2 roles**. This is, however, still vague. Hence, if in doubt, follow the next rule.
 
 When in doubt if someone deserves to be a co-author on your paper, offer them an opportunity to contribute and deserve co-authorship in the upcoming phases of the writing and peer-review process.
 
-When still in doubt, be inclusive. MOBI lab default policy is the “opt-out” policy.
+When still in doubt, be inclusive. MOBI lab default policy is the **“opt-out” policy**.
 
 Whoever contributes substantially to conception of ideas or study design, or execution of the study, or collection of the data, or to analyses, or their interpretation, should be given the chance to contribute to the main text at some point.
 
@@ -41,19 +41,19 @@ If, in MOBI lab, we publish a dataset and that dataset is under an open license,
 
 First, last, second, and corresponding authors are the most visible and important contributors.
 
-The first author is the person who led the research and writing. 
+The **first author** is the person who led the research and writing. 
 
-The last author is the person who bears the most significant responsibility in terms of funding, supervision, scientific content, etc., for the research and the final publication. This applies also after the paper is published, and if there is an error in the original paper, the responsibility for how it is addressed goes to the last author. 
+The **last author** is the person who bears the most significant responsibility in terms of funding, supervision, scientific content, etc., for the research and the final publication. This applies also after the paper is published, and if there is an error in the original paper, the responsibility for how it is addressed goes to the last author. 
 
-The second author is someone who still contributed significantly, but less than the first author. The significance of contribution declines with author order, although this is not a strict rule, and exceptions are possible. Ideally, the order should be justified in an author contribution section of the published paper.
+The **second author** is someone who still contributed significantly, but less than the first author. The significance of contribution declines with author order, although this is not a strict rule, and exceptions are possible. Ideally, the order should be justified in an author contribution section of the published paper.
 
-The corresponding author is someone who should be contacted first by people from the outside (e.g. other researchers, editors, media) in all matters related to the paper, both during peer review and after publication. 
+The **corresponding author** is someone who should be contacted first by people from the outside (e.g. other researchers, editors, media) in all matters related to the paper, both during peer review and after publication. 
 
-The default expectation in MOBI lab is that the first author is the corresponding author, unless this is impractical, for example when the lead author is expected to leave academia or the research field/program/project of MOBI lab, and thus would not be able to respond to queries about the paper.
+The default expectation in MOBI lab is that **the first author is the corresponding author**, unless this is impractical, for example when the lead author is expected to leave academia or the research field/program/project of MOBI lab, and thus would not be able to respond to queries about the paper.
 
-Assigning authorship and author order (or the position of the corresponding author) based on expected monetary or career benefits in the future is unethical. The ethical way is to assign this based on merit.
+**Assigning authorship and author order (or the position of the corresponding author) based on expected monetary or career benefits in the future is unethical.** The ethical way is to assign this based on merit.
 
-If two or more people have an equally significant contribution, flip a coin or use the sample() function in R to decide their order. Do this in front of the co-authors in question.
+If two or more people have an **equally significant contribution**, flip a coin or use the sample() function in R to decide their order. Do this in front of the co-authors in question.
 
 Prior to the first submission of the manuscript, the first author has the responsibility to (i) inform other co-authors what everyone did, (ii) justify their order, (iii) encourage them to check their affiliation and to add any relevant funding source to acknowledgements. This is done via a joint email to all co-authors.
 
