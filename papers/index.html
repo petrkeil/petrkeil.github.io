@@ -5,6 +5,8 @@ categories:
  - papers
 ---
 
+<h1>Publications in peer-reviewed scientific journals</h1>
+
 {% for paper in site.categories.papers %}
 {% capture prev_year %}{{ this_year }}{% endcapture %}
 {% capture this_year %}{{ paper.year }}{% endcapture %}
@@ -14,7 +16,7 @@ categories:
     {% assign counter = 0 %}
   <div class="row">
     <div class="col-md-12">
-      <h1>{{ this_year }}</h1>
+      <h2>{{ this_year }}</h2>
 <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />    </div>
   </div>
   <div class="row">
@@ -24,9 +26,9 @@ categories:
   <div class="row">
     <div class="col-md-12">
       {% if this_year != "2013" %}
-      <h1>{{ this_year }}</h1>
+      <h2>{{ this_year }}</h2>
       {% else %}
-      <h1>2013 and earlier</h1>
+      <h2>2013 and earlier</h2>
       {% endif %}
       <hr style="height:2px;border:none;color:#808088;background-color:#808088;" />
 
