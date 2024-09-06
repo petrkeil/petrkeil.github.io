@@ -10,7 +10,7 @@ We are opening a full-time postdoctoral position (2-years contract, potential fo
 
 **Job description:** The work will be mostly computational, and will involve handling of biodiversity databases, spatial data cleaning and management, programming, and custom-tailored statistical analyses (in R, Python, Julia, or similar). There will be use of geographic information systems (GIS). We expect the postdoc to negotiate and collaborate with international data holders, and with other members of the team. Apart from being the lead author on papers and presenting on conferences, the postdoc can get training through workshops and courses. There will be teaching opportunities.
 
-Details, requirements, salary, and **application instructions are [here](https://raw.githubusercontent.com/petrkeil/petrkeil.github.io/gh-pages/pdfs/jobs/Postdoc_Keil_CZU_2024.pdf)**. Application deadline is **15th of July 2024**.
+Details, requirements, salary, and **application instructions are [here](https://raw.githubusercontent.com/petrkeil/petrkeil.github.io/gh-pages/pdfs/jobs/Postdoc_Keil_CZU_2024.pdf)**. Application deadline is **30th of July 2024**.
 
 
 
