@@ -6,7 +6,7 @@ authors: Riva F, Martin CJ, Acedo CG, Bellon EN, Keil P, Moran-Ordonez A, Fahrig
 year: 2024
 ref: Riva et al 2024 J Ecol
 journal: "Journal of Ecology"
-pdf: /pdfs/papers/Riva_2024_JECOL.pdf
+pdf: /pdfs/papers/Riva_2024_JEcol.pdf
 doi: 10.1111/1365-2745.14403
 
 ---
