@@ -6,7 +6,7 @@ authors: Leroy F, Reif J, Vermouzek Z, Stastny K, Travnickova E, Bejcek V, Mikul
 year: 2024
 ref: Leroy et al 2024 Ecography
 journal: "Ecography"
-pdf: /pdfs/papers/Leroy_2023_Ecography.pdf
+pdf: /pdfs/papers/Leroy_2024_Ecography.pdf
 doi: 10.1111/ecog.06995
 
 ---
