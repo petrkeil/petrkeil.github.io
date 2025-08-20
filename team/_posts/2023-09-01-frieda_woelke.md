@@ -7,6 +7,7 @@ image: /images/team/frieda.jpg
 twitter: FriederikeWolke
 scholar: xfRCdq4AAAAJ&hl
 website: https://friedarosa.github.io/
+alumni: true
 
 ---
 
