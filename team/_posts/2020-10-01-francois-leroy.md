@@ -8,6 +8,7 @@ github: FrsLry
 image: /images/team/francois.jpg
 website: https://frslry.github.io/
 email:
+alumni: true
 ---
 
 Francois did his Master degree in Marine sciences at Sorbonne University in Paris. Thanks to his outstanding computational skills and curious mind, he landed in MOBI lab for his PhD. 

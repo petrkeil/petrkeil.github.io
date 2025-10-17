@@ -2,7 +2,7 @@
 layout: default
 title: Handling co-authorships and author order in MOBI lab
 category: post
-handle: Co-authorships
+handle: Co-authorships, intellectual property
 hashes: ethics; publication
 author: ptrkl
 ---
@@ -71,4 +71,17 @@ If you were employed by CZU during a time that you worked on a paper, you should
 
 If you were funded from a grant awarded to MOBI lab during a time that you worked on a paper, please check with Petr if you need to acknowledge that funding on your manuscript.
 
+# Intellectual property rights of CZU employees in MOBI lab
+
+The relevant law regulating intellectual property at CZU is **121/2000 coll**. Copyright Law, specifically **§58** (**section 1** and **section 5**). This regulates rights of the employee as the author and rights of CZU as the employer
+
+Briefly, **section 1** states that the employer exercises the rights of ownership to the creation of the employee. In MOBI lab, this includes any workflows, manuscripts, data, or intermediate data, the documentation etc. which employees (postdocs, PhD students) have produced as a part of their employment. Since CZU exercises the rights of ownership, it has the right to decide what happens with the creation, what it is used for, where it is published, who it is shared with, or what is the license of the creation.
+
+**Section 5** states that the employer can finish the creation if it has not been finished, in case that the employee quits the employment before the creation is finished. This may become relevant if postdocs or PhD students submit a paper, and the reviews come back after they will have left. 
+
+The other relevant legislature is **262/2006 coll. Labour Code**. Briefly, an employee is obliged to follow the instructions of the employer, and can be asked by the employer to hand over the creation to the employer.
+
+None of this affects authorships, as **authorship is a different thing from ownership**.
+
+Concerning the **Horizon Europe projects**, the **grant agreement** between CZU and European Comission, specifically state that the European Comission is not the owner of the creation which has been done using the EU money in MOBI lab; it is the beneficiary of the money (CZU + associated parties) who owns the creation. The supplementary grant agreement states that copyrignt and intellectual property rights concerning the project are regulated by the abovementioned 121/2000 coll. Copyright Law, specifically §58.
 

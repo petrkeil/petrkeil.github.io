@@ -9,6 +9,7 @@ github: ManueleBazzichetto
 scholar: RysWTycAAAAJ&hl
 website: https://mbazzichetto.netlify.app/
 cv: https://mbazzichetto.netlify.app/uploads/ManueleBazzichettoCV.pdf
+alumni: true
 ---
 
 Manuele is a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling, and, from recently, in the effect of climatic anomalies on ecosystem stability. 
