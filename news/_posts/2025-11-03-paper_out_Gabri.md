@@ -5,7 +5,7 @@ title:  New Ecology Letters paper out on biodiversity change of European plants.
 author: Petr Keil
 ---
 
-**Gabri** and Petr, together with our partners from the **GRACE project**, and with many other European botanists have published a [new paper in *Ecology Letters*](hhttps://onlinelibrary.wiley.com/doi/10.1111/ele.70248). 
+**Gabri** and **Petr**, together with our partners from the **GRACE project**, and with many other European botanists have published a [new paper in *Ecology Letters*](https://onlinelibrary.wiley.com/doi/10.1111/ele.70248). 
 
 The analysis shows how specied diversity of plants in local communities changed over the past 60 years, in four distinct environments (forests, grasslands, scrub, and wetlands), and in seven major biogeographic regions. 
 
