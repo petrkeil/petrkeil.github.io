@@ -4,7 +4,7 @@ title: "SPARSE 1.0 - a template for databases of species inventories, with an op
 image: /images/papers/sparse.jpg
 authors: Tschernosterova K, Travnickova E, Grattarola F, Rosse C, Keil P
 year: 2023
-ref: Tschernosterova et al 2023 Biodiv Data J
+ref: Tschernosterova et al (2023) Biodiv Data J
 journal: "Biodiversity Data Journal"
 pdf: /pdfs/papers/Tschernosterova_2023_BDJ.pdf
 doi: 10.3897/BDJ.11.e108731

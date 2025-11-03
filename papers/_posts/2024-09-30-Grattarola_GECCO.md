@@ -4,7 +4,7 @@ title: "A continental-wide decline of occupancy and diversity in five Neotropica
 image: /images/papers/carnivores.jpg
 authors: Grattarola F, Tschernosterova K, Keil P
 year: 2024
-ref: Grattarola et al 2024 Glob Ecol Cons
+ref: Grattarola et al (2024) Global Ecology and Conservation
 journal: "Global Ecology and Conservation"
 pdf: /pdfs/papers/Grattarola_2024_GECCO.pdf
 doi: 10.1016/j.gecco.2024.e03226

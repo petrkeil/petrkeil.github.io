@@ -4,7 +4,7 @@ title: "Decomposing trends in bird populations: Climate, life histories and habi
 image: /images/papers/storch_2023_2.jpg
 authors: Storch D, Kolecek J, Keil P, Vermouzek Z, Vorisek P, Reif J
 year: 2023
-ref: Stroch et al 2023 Divers Distrib
+ref: Stroch et al (2023) Diversity and Distributions
 journal: "Diversity and Distributions 13: e4028"
 pdf: /pdfs/papers/Storch_2023_DiDi.pdf
 doi: 10.1111/ddi.13682

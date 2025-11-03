@@ -4,7 +4,7 @@ title: "Nineteenth-century land use shapes the current occurrence of some plant 
 image: /images/papers/gabri1.png
 authors: Midolo G, Skokanova H, Clark AT, Vymazalova M, Chytry M, Dullinger S, Essl F, Sibik J, Keil P
 year: 2025
-ref: Midolo et al 2025 Landscape Ecol
+ref: Midolo et al (2025) Landscape Ecology
 journal: "Landscape Ecology"
 pdf: /pdfs/papers/Midolo_2025_LandEcol.pdf
 doi: 10.1007/s10980-024-02016-6

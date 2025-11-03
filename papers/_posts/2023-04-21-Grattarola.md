@@ -4,7 +4,7 @@ title: "Integrating presence-only and presence–absence data to model changes i
 image: /images/papers/Jaguarundi.jpg
 authors: Grattarola F, Bowler DE, Keil P
 year: 2023
-ref: Grattarola et al 2023 J Biogeogr
+ref: Grattarola et al (2023) Journal of Biogeography
 journal: "Journal of Biogeography"
 pdf: /pdfs/papers/Grattarola_2023_JBI.pdf
 doi: 10.1111/jbi.14622

@@ -4,7 +4,7 @@ title: "﻿MIAU: An analysis-ready dataset on presence-only and presence-absence
 image: /images/papers/Ocelot.jpg
 authors: Grattarola F, Tschernosterova K, Keil P
 year: 2025
-ref: Grattarola et al 2025 Nature Conservation
+ref: Grattarola et al (2025) Nature Conservation
 journal: "Nature Conservation"
 pdf: /pdfs/papers/Grattarola_2025_NatCons.pdf
 doi: 10.3897/natureconservation.58.140644

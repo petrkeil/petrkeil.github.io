@@ -4,7 +4,7 @@ title: "The relationship between remotely-sensed spectral heterogeneity and bird
 image: /images/papers/venn.jpg
 authors: Prajzlerova D, Bartak V, Keil P, Moudry V, Zikmundova M, Balej P, Leroy F, Rocchini D, Perrone M, Malavasi M, Simova P
 year: 2024
-ref: Prajzlerova et al 2024 Int J Appl Earth Observ Geoinf
+ref: Prajzlerova et al (2024) Int J Appl Earth Observ Geoinf
 journal: "International Journal of Applied Earth Observation and Geoinformation"
 pdf: /pdfs/papers/Prajzlerova_2024_IJAEOG.pdf
 doi: 10.1016/j.jag.2024.103763

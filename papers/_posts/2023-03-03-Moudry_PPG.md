@@ -4,7 +4,7 @@ title: "Scale mismatches between predictor and response variables in species dis
 image: /images/papers/moudry.png
 authors: Moudry V, Keil P, Cord AF, Gabor L, Lecours V, Zarzo-Arias A, Bartak V, Malavasi M, Rocchini D, Torresani M, Gdulova K, Grattarola F, Leroy F, Marchetto E, Thouveral E, Prosek J, Wild J, Simova P
 year: 2023
-ref: Moudry et al 2023 Prog Phys Geogr
+ref: Moudry et al (2023) Prog Phys Geogr
 journal: "Progress in Physical Geography"
 doi: 10.1177/03091333231156362
 ---

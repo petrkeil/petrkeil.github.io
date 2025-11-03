@@ -4,7 +4,7 @@ title: "Decomposing biodiversity change to processes of extinction, colonization
 image: /images/papers/bird_scheme.jpg
 authors: Leroy F, Reif J, Vermouzek Z, Stastny K, Travnickova E, Bejcek V, Mikulas I, Keil P
 year: 2024
-ref: Leroy et al 2024 Ecography
+ref: Leroy et al (2024) Ecography
 journal: "Ecography"
 pdf: /pdfs/papers/Leroy_2024_Ecography.pdf
 doi: 10.1111/ecog.06995

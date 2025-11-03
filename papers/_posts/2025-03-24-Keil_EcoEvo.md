@@ -4,7 +4,7 @@ title: "﻿Should regional species loss be faster, or slower, than local loss? I
 image: /images/papers/xar_small.png
 authors: Keil P, Clark AT, Bartak V, Leroy F
 year: 2025
-ref: Keil et al 2025 Ecol Evol
+ref: Keil et al (2025) Ecology and Evolution
 journal: "Ecology and Evolution"
 pdf: /pdfs/papers/Keil_2025_EcolEvol.pdf
 doi: 10.1002/ece3.71162

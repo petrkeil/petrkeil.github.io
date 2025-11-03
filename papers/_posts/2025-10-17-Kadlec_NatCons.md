@@ -4,7 +4,7 @@ title: "﻿﻿Towards a new global database of regional Red Lists (RegRed): meta
 image: /images/papers/redlist_map_small.jpg
 authors: Kadlec I, Ulicny A, Keil P, Grattarola F
 year: 2025
-ref: Kadlec et al 2025 Nat Conserv
+ref: Kadlec et al (2025) Nature Conservation
 journal: "Nature Conservation"
 pdf: /pdfs/papers/Kadlec_2025_NatureConservation.pdf
 doi: 10.3897/natureconservation.60.158981

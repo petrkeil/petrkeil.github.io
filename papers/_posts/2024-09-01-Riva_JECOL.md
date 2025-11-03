@@ -4,7 +4,7 @@ title: "Incorporating effects of habitat patches into species distribution model
 image: /images/papers/Riva.png
 authors: Riva F, Martin CJ, Acedo CG, Bellon EN, Keil P, Moran-Ordonez A, Fahrig L, Guisan A
 year: 2024
-ref: Riva et al 2024 J Ecol
+ref: Riva et al (2024) Journal of Ecology
 journal: "Journal of Ecology"
 pdf: /pdfs/papers/Riva_2024_JEcol.pdf
 doi: 10.1111/1365-2745.14403

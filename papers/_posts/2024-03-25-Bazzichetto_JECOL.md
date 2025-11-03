@@ -4,7 +4,7 @@ title: "Biodiversity promotes resistance but dominant species shape recovery of 
 image: /images/papers/cows.jpg
 authors: Bazzichetto M, Sperandii MG, Penone C, Keil P, Allan E, Lepš J, Prati D, Fischer M, Bolliger R, Gossner MM, de Bello F
 year: 2024
-ref: Bazzichetto et al 2024 J Ecol
+ref: Bazzichetto et al (2024) Journal of Ecology
 journal: "Journal of Ecology"
 pdf: /pdfs/papers/Bazzichetto_2024_JECOL.pdf
 doi: 10.1111/1365-2745.14288
