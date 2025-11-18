@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Adam Ulicny
-position: Technician
+position: PhD student
 handle: adamulic
 image: /images/team/adam.jpg
 ---
