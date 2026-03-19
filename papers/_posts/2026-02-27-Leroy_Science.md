@@ -7,7 +7,7 @@ year: 2026
 ref: Leroy et al (2026) Science
 journal: "Science"
 doi: 10.1126/science.ads0871
-pdf: /pdfs/papers/Leroy_2026_Science.pdf
+pdf: /pdfs/papers/Leroy_2026_Science_postprint.pdf
 
 ---
 
