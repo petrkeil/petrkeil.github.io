@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  New paper on temporal trends of species aggregation. Congrats Carmen and MOBI folks!
+title:  New paper on temporal trends of species aggregation. Congrats Carmen!
 author: Petr Keil
 ---
 
