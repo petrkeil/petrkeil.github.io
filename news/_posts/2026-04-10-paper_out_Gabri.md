@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Science Advances paper out on biodiversity change of European plants. Congrats Gabri!
+title: European vegetation is becoming more dense and nutrient rich. Congrats Gabri for a new Science Advances paper!
 author: Petr Keil
 ---
 
