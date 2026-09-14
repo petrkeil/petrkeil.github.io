@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{305:function(n,i){$(".institution-info-wrapper").is(":empty")&&$(".UX3InstitutionBanner").addClass("non-institution")}}]);
-//# sourceMappingURL=institutionBanner-2853676d5b50d87b923d.js.map
